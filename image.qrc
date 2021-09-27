@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="utube_logo">
+    <file>ut.png</file>
+  </qresource>
+</RCC>
